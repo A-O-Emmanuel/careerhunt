@@ -34,11 +34,6 @@ CareerHunt is a full-stack job board application designed for seamless job explo
 3. Create an account or log in to save jobs.
 4. Manage saved jobs under your profile.
 
-## Screenshots
-![CareerHunt Homepage](screenshot-homepage.png)
-![Job Listings](screenshot-jobs.png)
-![Saved Jobs](screenshot-saved-jobs.png)
-
 ## Issues and Future Features
 
 ### Known Issues
